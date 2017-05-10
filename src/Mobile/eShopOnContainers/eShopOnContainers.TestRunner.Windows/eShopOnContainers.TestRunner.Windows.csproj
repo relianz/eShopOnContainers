@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{A7337243-33B8-463A-87AD-944B75EFD820}</ProjectGuid>
+    <ProjectGuid>{02680C26-CA1D-4D9D-A7E3-D66AF5BE6F2F}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>eShopOnContainers.TestRunner.Windows</RootNamespace>
